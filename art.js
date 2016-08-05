@@ -1,5 +1,9 @@
 /** Draw Pi
  *
+ *  Please see LICENSE for usage terms
+ *
+ *  (c) 2016, Dan "Ducky" Little
+ *
  */
 
 var CONFIG = {
